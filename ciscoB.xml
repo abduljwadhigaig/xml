@@ -1151,6 +1151,113 @@
                 </address>
           </ip>
          </Loopback>
+            <Loopback>
+            <name>94</name>
+           <ip>
+                <address>
+                   <primary>
+                        <address>10.90.90.94</address>
+                            <mask>255.255.255.255</mask>
+                   </primary>
+                </address>
+          </ip>
+         </Loopback>
+
+         <Loopback>
+            <name>95</name>
+           <ip>
+                <address>
+                   <primary>
+                        <address>10.90.90.95</address>
+                            <mask>255.255.255.255</mask>
+                   </primary>
+                </address>
+          </ip>
+         </Loopback>
+
+         <Loopback>
+            <name>96</name>
+           <ip>
+                <address>
+                   <primary>
+                        <address>10.90.90.96</address>
+                            <mask>255.255.255.255</mask>
+                   </primary>
+                </address>
+          </ip>
+         </Loopback>
+
+         <Loopback>
+            <name>97</name>
+           <ip>
+                <address>
+                   <primary>
+                        <address>10.90.90.97</address>
+                            <mask>255.255.255.255</mask>
+                   </primary>
+                </address>
+          </ip>
+         </Loopback>
+
+         <Loopback>
+            <name>98</name>
+           <ip>
+                <address>
+                   <primary>
+                        <address>10.90.90.98</address>
+                            <mask>255.255.255.255</mask>
+                   </primary>
+                </address>
+          </ip>
+         </Loopback>
+
+         <Loopback>
+            <name>99</name>
+           <ip>
+                <address>
+                   <primary>
+                        <address>10.90.90.99</address>
+                            <mask>255.255.255.255</mask>
+                   </primary>
+                </address>
+          </ip>
+         </Loopback>
+
+         <Loopback>
+            <name>100</name>
+           <ip>
+                <address>
+                   <primary>
+                        <address>10.90.90.100</address>
+                            <mask>255.255.255.255</mask>
+                   </primary>
+                </address>
+          </ip>
+         </Loopback>
+
+         <Loopback>
+            <name>101</name>
+           <ip>
+                <address>
+                   <primary>
+                        <address>10.90.90.101</address>
+                            <mask>255.255.255.255</mask>
+                   </primary>
+                </address>
+          </ip>
+         </Loopback>
+
+         <Loopback>
+            <name>102</name>
+           <ip>
+                <address>
+                   <primary>
+                        <address>10.90.90.102</address>
+                            <mask>255.255.255.255</mask>
+                   </primary>
+                </address>
+          </ip>
+         </Loopback>
       </interface>
                         <router>
            <router-ospf xmlns="http://cisco.com/ns/yang/Cisco-IOS-XE-ospf">
